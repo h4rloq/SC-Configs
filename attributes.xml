@@ -1,107 +1,78 @@
 <Attributes Version="35">
  <Attr name="ADSMouseSensitivity" value="1"/>
  <Attr name="AudioMasterVolume" value="1"/>
- <Attr name="AudioMusicVolume" value="0.36"/>
- <Attr name="AudioPanningRule" value="0"/>
- <Attr name="AudioSfxVolume" value="0.77"/>
- <Attr name="AudioShakeStrength" value="0"/>
+ <Attr name="AudioMusicVolume" value="0.44"/>
+ <Attr name="AudioSfxVolume" value="1"/>
  <Attr name="AudioShipComputerSpeechVolume" value="1"/>
  <Attr name="AudioSimulationAnnouncerVolume" value="1"/>
- <Attr name="AudioSpeechVolume" value="1"/>
- <Attr name="AudioVOIPVolume" value="0.88"/>
- <Attr name="AutoZoomOnSelectedTarget" value="0"/>
+ <Attr name="AudioSpeechVolume" value="0.99"/>
  <Attr name="AutoZoomOnSelectedTargetStrength" value="1"/>
- <Attr name="CameraSpringMovement" value="0"/>
- <Attr name="ChromaticAberration" value="0"/>
- <Attr name="DefaultConvergenceDistance" value="800"/>
  <Attr name="EnableFacewareSystemLive" value="0"/>
  <Attr name="EspZoneOuter" value="8"/>
- <Attr name="FOV" value="83.8287"/>
+ <Attr name="FOV" value="74.1189"/>
  <Attr name="FlightGSafeDefaultOn" value="0"/>
- <Attr name="FlightSpacebrakeEnablesBoost" value="1"/>
  <Attr name="GForceHeadBobScale" value="1"/>
  <Attr name="GForceZoomScale" value="0"/>
- <Attr name="Gamma" value="1"/>
  <Attr name="HeadTrackingFaceWareDeadzoneRotationPitch" value="10"/>
  <Attr name="HeadTrackingFaceWareDeadzoneRotationRoll" value="2"/>
  <Attr name="HeadTrackingFaceWareDeadzoneRotationYaw" value="10"/>
  <Attr name="HeadTrackingFaceWareSmoothingThreshold" value="1"/>
  <Attr name="HeadTrackingFacewarePitchMultiplier" value="8"/>
  <Attr name="HeadTrackingFacewareYawMultiplier" value="8"/>
- <Attr name="HeadtrackingDisableDuringIM" value="1"/>
- <Attr name="HeadtrackingDisableDuringMobiGlas" value="1"/>
- <Attr name="HeadtrackingDisableDuringWalking" value="0"/>
- <Attr name="HeadtrackingEnableRollFPS" value="1"/>
  <Attr name="HeadtrackingGlobalSmoothingPosition" value="0"/>
  <Attr name="HeadtrackingGlobalSmoothingRotation" value="0"/>
  <Attr name="HeadtrackingInactivityTime" value="2"/>
  <Attr name="HeadtrackingSource" value="3"/>
- <Attr name="HeadtrackingThirdPersonDisableDuringInventory" value="0"/>
  <Attr name="Height" value="1440"/>
- <Attr name="IgnoreWindowFocus" value="1"/>
- <Attr name="LookAheadStrengthForward" value="0"/>
- <Attr name="LookAheadStrengthHorizonAlignment" value="0"/>
- <Attr name="LookAheadStrengthHorizonLookAt" value="0"/>
- <Attr name="LookAheadStrengthJumpPointSpline" value="0"/>
+ <Attr name="LookAheadStrengthForward" value="1"/>
+ <Attr name="LookAheadStrengthHorizonAlignment" value="1"/>
+ <Attr name="LookAheadStrengthHorizonLookAt" value="1"/>
+ <Attr name="LookAheadStrengthJumpPointSpline" value="1"/>
  <Attr name="LookAheadStrengthMgvForward" value="1"/>
  <Attr name="LookAheadStrengthMgvHorizonAlignment" value="1"/>
  <Attr name="LookAheadStrengthMgvPitchYaw" value="1"/>
  <Attr name="LookAheadStrengthMgvVJoy" value="1"/>
  <Attr name="LookAheadStrengthQuantumBoostTarget" value="1"/>
- <Attr name="LookAheadStrengthRoll" value="0"/>
- <Attr name="LookAheadStrengthTargetSoft" value="0"/>
+ <Attr name="LookAheadStrengthRoll" value="1"/>
+ <Attr name="LookAheadStrengthTargetSoft" value="1"/>
  <Attr name="LookAheadStrengthTurretForward" value="1"/>
  <Attr name="LookAheadStrengthTurretPitchYaw" value="1"/>
  <Attr name="LookAheadStrengthTurretVJoy" value="1"/>
- <Attr name="LookAheadStrengthVJoy" value="0"/>
- <Attr name="LookAheadStrengthVelocityVector" value="0"/>
- <Attr name="LookAheadStrengthYawPitch" value="0"/>
- <Attr name="ManualGimbalModeShipsDefault" value="1"/>
- <Attr name="MotionBlur" value="0"/>
+ <Attr name="LookAheadStrengthVJoy" value="1"/>
+ <Attr name="LookAheadStrengthVelocityVector" value="1"/>
+ <Attr name="LookAheadStrengthYawPitch" value="1"/>
  <Attr name="OverscanBorderX" value="0"/>
  <Attr name="OverscanBorderY" value="0"/>
- <Attr name="PreferredAudioInputDeviceHash" value="53051106"/>
  <Attr name="Preset0" value=""/>
  <Attr name="Preset1" value=""/>
  <Attr name="Preset2" value=""/>
  <Attr name="Preset3" value=""/>
  <Attr name="Preset4" value=""/>
- <Attr name="Resolution" value="23"/>
- <Attr name="ScatterDist" value="750"/>
- <Attr name="ShakeScale" value="0"/>
- <Attr name="SpeedThrottleDefaultFixedSpeed" value="3.08"/>
- <Attr name="SysSpec" value="3"/>
- <Attr name="SysSpecGameEffects" value="3"/>
- <Attr name="SysSpecGasCloud" value="3"/>
- <Attr name="SysSpecObjectDetail" value="3"/>
- <Attr name="SysSpecParticles" value="3"/>
- <Attr name="SysSpecPlanetVolumetricClouds" value="1"/>
- <Attr name="SysSpecPostProcessing" value="3"/>
- <Attr name="SysSpecShading" value="3"/>
- <Attr name="SysSpecShadows" value="3"/>
- <Attr name="SysSpecWater" value="3"/>
- <Attr name="TerrainTessDistance" value="5"/>
- <Attr name="TobiiEyeHeadTrackingRatio_Profile0" value="0.68"/>
- <Attr name="TobiiHeadPositionDeadZoneX" value="0.4"/>
- <Attr name="TobiiHeadPositionDeadZoneY" value="0.22"/>
- <Attr name="TobiiHeadPositionDeadZoneZ" value="0.51"/>
- <Attr name="TobiiHeadPositionScale" value="5.88"/>
- <Attr name="TobiiHeadSensitivityPitch_Profile0" value="3"/>
- <Attr name="TobiiHeadSensitivityRoll_Profile0" value="2.4"/>
+ <Attr name="QRCode" value="1"/>
+ <Attr name="Resolution" value="29"/>
+ <Attr name="ShakeScale" value="1"/>
+ <Attr name="SpeedThrottleDefaultFixedSpeed" value="3.71"/>
+ <Attr name="SysSpecPlanetVolumetricClouds" value="3"/>
+ <Attr name="TobiiHeadPositionScale" value="3"/>
+ <Attr name="TobiiHeadSensitivityRoll_Profile0" value="1"/>
  <Attr name="TobiiHeadSensitivityRoll_Profile1" value="1"/>
- <Attr name="TobiiHeadSensitivityYaw_Profile0" value="3"/>
- <Attr name="TobiiHeadViewAutoCenter_Profile1" value="0"/>
  <Attr name="TurretsEspZoneOuter" value="8"/>
- <Attr name="VSync" value="0"/>
- <Attr name="VelocityIndicatorDisplayMode" value="0"/>
  <Attr name="VideoVolume" value="1"/>
- <Attr name="VoiceLevelOnThreshold" value="0"/>
+ <Attr name="WeaponFallbackConvergenceDistance" value="1500"/>
  <Attr name="Width" value="3440"/>
  <Attr name="WindowMode" value="2"/>
- <Attr name="selectedShipGEID" value="375153356213"/>
- <Attr name="selectedShipURN" value="urn:sc:global:entitlement:uuid:77df8a7b-f416-52dd-838e-9106719f922e"/>
- <Attr name="selectedShipURN_EA_BattleRoyale" value="urn:sc:global:entitlement:uuid:68792844-1f31-5ba3-8c70-596402bf120b"/>
- <Attr name="selectedShipURN_EA_ClassicRace" value=""/>
- <Attr name="selectedShipURN_EA_FreeFlight" value="urn:sc:global:entitlement:uuid:28d93ff9-4946-5606-a2f9-c5f0a6c395e3"/>
- <Attr name="selectedShipURN_EA_PirateSwarm" value="urn:sc:global:entitlement:uuid:77df8a7b-f416-52dd-838e-9106719f922e"/>
+ <Attr name="selectedShipURN" value="urn:sc:global:entitlement:uuid:5bbc8f31-3445-5f27-b545-7781e15e82f8"/>
+ <Attr name="selectedShipURN_EA_BattleRoyale" value="urn:sc:global:entitlement:uuid:5bbc8f31-3445-5f27-b545-7781e15e82f8"/>
+ <Attr name="selectedShipURN_EA_ClassicRace" value="urn:sc:global:entitlement:uuid:5bbc8f31-3445-5f27-b545-7781e15e82f8"/>
+ <Attr name="selectedShipURN_EA_Duel" value="urn:sc:global:entitlement:uuid:5bbc8f31-3445-5f27-b545-7781e15e82f8"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_1" value="urn:sc:communal:entitlement::fdbd7d0d-75b0-4b0d-861d-340359e57112"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_3" value="urn:sc:communal:entitlement::b8a352bb-74a8-415b-9e08-77f684ac91b8"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_4" value="urn:sc:communal:entitlement::b8a352bb-74a8-415b-9e08-77f684ac91b8"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_6" value="urn:sc:communal:entitlement::96b11061-68ce-4896-9424-fc8804a410ae"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_7" value="urn:sc:communal:entitlement::fdbd7d0d-75b0-4b0d-861d-340359e57112"/>
+ <Attr name="selectedShipURN_EA_ExperimentalMode_8" value="urn:sc:communal:entitlement::fdbd7d0d-75b0-4b0d-861d-340359e57112"/>
+ <Attr name="selectedShipURN_EA_FreeFlight" value="urn:sc:global:entitlement:uuid:5bbc8f31-3445-5f27-b545-7781e15e82f8"/>
+ <Attr name="selectedShipURN_EA_PirateSwarm" value="urn:sc:global:entitlement:uuid:207b49bc-09db-5bb0-98dc-239a2cad2d32"/>
+ <Attr name="selectedShipURN_EA_SquadronBattle" value="urn:sc:global:entitlement:uuid:5bbc8f31-3445-5f27-b545-7781e15e82f8"/>
+ <Attr name="selectedShipURN_EA_VanduulSwarm" value="urn:sc:global:entitlement:uuid:207b49bc-09db-5bb0-98dc-239a2cad2d32"/>
 </Attributes>
